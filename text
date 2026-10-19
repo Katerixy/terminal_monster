@@ -1,0 +1,638 @@
+path
+You walk down a well trodden path
+
+road
+You walk down a concrete road.
+
+train cabin
+Something large towers over you.
+Upon further examination, you see that it is a section of a train.
+
+train cabin_enter
+You enter through a squaking doorway.
+The place is rusty, the seats are torn to shreds.
+
+train cabin_examine
+You're able to ignore the smell of rot, but not the sight of the many corpses.
+A train collision must have killed them, the others... likely found a worse fate.
+
+nothing_examine_train cabin
+There is nothing in here.
+
+nothing_train cabin
+
+hat_train cabin
+To the right of the doorway are hooks.
+
+hat_examine_train cabin
+One of the hooks holds a hat.
+A cowboy hat! You haven't seen one in ages.
+
+suitcase_train cabin
+Baggage lies on the floor.
+
+suitcase_examine_train cabin
+A bright green, small suitcase catches your attention.
+Inside is a toy compass, a school uniform, and some notebooks.
+You'd like to imagine the child's death was quick and painless.
+
+ant
+An ant tries to attack you
+
+ant_attack
+It bites you
+
+ant_special
+The ant crawls towards you
+
+ant_data0
+A simple ant.
+It can move towards you or bite.
+
+ant_data1
+An ant. Lives in fields and forests commonly.
+It can move towards you or bite.
+No [special] attack.
+
+ant_data2
+An ant. Lives in fields and forests commonly. Can be spotted in junkyards.
+It can move towards you or bite.
+No [special] attack.
+The little critter is a soldier, and has seen many battles
+He's one of the few that survived between the war between the ant colony and bug colony.
+
+ant_kill
+Just as the gods above were mortal,
+you too were not immune to a determined creature.
+
+ant_death
+You stomp on the ant with one foot and it dies.
+
+ant_dead
+A dead, slightly twitching black spot is on the floor.
+
+ant_path
+Something pokes from under your shoe.
+An ant initiates battle with you!
+
+ant_road
+You stop in your tracks to look at a block dot on the road in front of you.
+The ant seems angry.
+
+slime
+A dark blob rolls forward
+
+slime_attack
+The blob morphs very sharp teeth and bites you
+
+slime_special
+The blob recombines, gaining some health.
+
+slime_data0
+Slimy black blob.
+It can morph or heal.
+
+slime_data1
+Slimy, semi-translucent black blob. It seems to have two small eyes inside it.
+It almost looks determined to defeat you, the way it rolls towards you.
+It can morph [attack] or heal [special].
+
+slime_data2
+Slimy, semi-translucent black blob. It seems to have two small eyes inside it.
+It's determination kind of reminds you... of yourself.
+It can morph [attack] or heal [special].
+
+slime_kill
+Your strength slowly fades.
+You grow tired.
+A dark, soft cushion forms below you, welcoming you just as hell welcomes its demons.
+
+slime_death
+You chop the thing up into tiny pieces. It won't recombine for a long while now.
+
+slime_path
+Suddenly, a black blob rolls out of the bushes and onto the road.
+It blocks your way.
+
+slime_road
+A black blob blocks the way in front of you.
+
+slime_building
+A blob starts rolling down the broken stairs, and you soon recognize it: A slime.
+It's sliding towards you at unexpected speeds.
+
+slime_dead
+A puddle of black ooze is on the ground. It's too weak to face you again.
+
+cat
+Something rustles above you.
+Suddenly, a large four-legged beast hops down from a tree a couple feet in front of you.
+
+cat_attack
+The beast swipes at you with its claws
+
+cat_special
+The beast lunges forward, its teeth aimed at your neck.
+You dodge, but not before it deals some damage.
+
+cat_data0
+Some kind of big beast.
+It can attack with claws or by biting.
+
+cat_data1
+The beast is on all fours, and even then it is almost your height.
+Its dark brown fur blends with the trees around, and its tail sways angrily behind it.
+It can attack with claws or [special] bite for twice the damage.
+
+cat_data2
+The beast is on all fours, and even then it is almost your height.
+Its dark brown fur blends with the trees around, and its tail sways angrily behind it.
+Lives in fir forests, and can be found in junkyards.
+It can attack with claws or [special] bite for twice the damage.
+
+cat_kill
+The barrage of attacks doesn't end.
+Your eyes flutter shut.
+The wounds all over your body are too much for you to handle.
+
+cat_death
+As the beast prepares to lunge, you deal one last blow.
+It stops mid-track, and collapses. Dead.
+
+cat_dead
+A dead beast. Its wounds ooze a mixture of blood and black goo.
+
+cat_path
+A growl gives you just enough time to move out of the way,
+as a beast jumps onto the path. Get ready.
+
+cat_road
+Large paws thump against the road, getting louder.
+A beast is running towards you. Get ready.
+
+cat_room
+A low growl suddenly distracts you. Two golden eyes stare at you from under the table.
+
+you
+You stand in front of yourself.
+
+you_attack
+You attack yourself
+
+you_special
+You copy your action
+
+you_kill
+You die, and yet you continues on.
+
+you_death
+You kill yourself. And yet you survive.
+
+
+shotgun
+You found a fully loaded shotgun.
+
+shotgun_use
+BAM!
+The thing in front of you now has a giant hole.
+
+shotgun_examine1
+A shotgun, like your mother used to own. Back when the world was normal.
+When your biggest worries were getting to work on time and looking presentable
+
+shotgun_examine2
+The side of the handle has a small engraving: "A+E"
+
+shotgun_examine3
+Another shotgun.
+In the world you live in, who doesn't want more?
+
+shotgun_store
+The gun sits heavy in your bag.
+2 shotgun uses added to inventory
+
+medkit
+A mini-medkit lies on the floor.
+
+medkit_examine1
+The small medkit has all you would need:
+bandages, gauzes, wipes, antibiotics, scissors... and so on
+
+medkit_examine2
+This one was found already opened.
+The body nearby it tells you it was too late for them.
+
+medkit_examine3
+The medkit is tattered, and the red cross barely visible.
+You vaguely remember learning about the symbol in school.
+
+medkit_train cabin
+There's a medkit under one of the chairs.
+
+wall
+A concrete piece of wall stands in front of you.
+The cracks in it make it easy to get through.
+
+leaning wall
+A concrete piece of wall. It seems very shaky.
+
+leaning wall_fell
+Sure enough, the wall falls,
+and as you dodge some rocks hit you.
+
+barbed wire
+You find some hastily placed wooden fences, covered in barbed wire.
+
+train couple
+You see a link between trains in front of you.
+It's easy to just jump over it.
+
+mech
+A war mech. Was this what they used against the monsters?
+
+
+'you'
+It's 'you'. 'You' mirror your movements.
+
+engine coil
+Some broken pieces of an engine. It won't be of any use.
+
+pistol
+A bloody pistol lies on the floor.
+
+pistol_room
+Looking inside some cabinets, you find a pistol in one.
+It is loaded.
+
+pistol_building
+A desk is at one corner of the building. In its cabinet is a pistol.
+Useful.
+
+pine tree
+A pine tree covers your walk in shade.
+
+ship cog
+A gigantic, wheel, or mechanical cog?
+It must have been for one of the old spaceship models.
+
+A gigantic metal beam with three ridges in it.
+You recognize it as a part of the old spaceship engines.
+
+water
+You wade into lake water
+
+tree
+A tree- one you don't recognize- stands to the side of the path.
+It brings some welcome shade.
+
+room
+A destroyed building has left just four walls standing. Just one room.
+
+room_enter
+You open the door to enter. It falls down when you touch it.
+
+room_examine
+It's a quaint little room. Homely, too.
+Some ripped curtains are over the window,
+and a wooden table in the middle reminds you of your own home. Your own family.
+
+picture frame_room
+There's a picture frame on a shelf, above the fireplace.
+
+picture frame_examine_room
+The photo is ripped in half. But you can see a young woman in the photo.
+She is smiling. How long was it since you smiled?
+
+food_room
+On the table is a pot of soup, as if the family had left mid-dinner.
+
+food_examine_room
+The soup is stale, old.
+Some flies have gathered around, trying to get inside through the gap between the lid and pot.
+
+building
+You see a relatively stable building.
+
+building_enter
+The door swings open, and you enter.
+Its stone floor rings out from under your shoes.
+
+build_examine
+The floor is white, the walls grey.
+Nearly everything is made of either concrete or metal.
+
+nothing_building
+
+nothing_examine_building
+There is nothing useful here anymore.
+
+
+
+phone_building
+You step on something. Ah, a phone. It hasn't broken, fortunately.
+
+phone_examine_building
+You flip it open. Some of the strange contacts catch your attention:
+The Coolest, Toffee, Bohnen, Doodle
+But calling doesn't work, and neither does texting.
+
+papers_building
+A layer of newspapers covers the floor of the room.
+
+papers_examine_building
+Hm, they're all the same. The cover says:
+Astronaut passes out during speech! Is this space sickness or something more?
+
+grave
+You nearly trip over some recently dug soil.
+The cross near it tells you it's a grave.
+
+knife
+A pocket knife lies on the ground.
+
+knife_train cabin
+The window is cracked, and as you take steps, glass cracks under your shoes.
+A knife lies right below the window.
+
+bug
+In front of you is a strange, large bug.
+When it sees you, It rises up, hissing.
+
+bug_attack
+The bug viciously bites you.
+Your arm hurts strangely. The bite must've been venomous.
+
+bug_special
+The bug lunges at you. You shield yourself with your bag, but that captures its attention.
+
+bug_data0
+Its antenna and exoskeleton tells you its an insect.
+It can attack you with its mandibles, or use them to steal your items.
+
+bug_data1
+The strange creature has antenna, an elongated thorax, and white spots.
+Its antenna drips black goo.
+It can attack with mandibles or [special] yoink your stuff.
+
+bug_data2
+The strange creature has antenna, an elongated thorax, and white spots.
+Its antenna drips black goo, like most other creatures you've seen.
+Lives in all forests, and you remember finding some bug corpses full of ants.
+
+bug_train cabin
+Something to your left starts making cracking sounds.
+Suddenly, a large worm-like thing starts sliding towards you.
+
+bug_dead
+A dead bug-like creature.
+
+bug_death
+You attack the creature on its back, between its head and thorax.
+It screeches, before finally curling up, dead.
+
+bug_path
+A gigantic, bug-like creature jumps onto the path in front of you.
+It doesn't look friendly.
+
+bug_road
+A scittering of limbs warns you as a gigantic bug creature rush towards you.
+It does't look too happy.
+
+lily flower
+A small, white flower is sprouting from the ground. It has a strange blue stem.
+
+lily flower_examine
+You recognize this as a lily flower.
+Although, the blue stem is a relatively new thing for the species.
+
+lily flower_room
+On the table is a small vase, with one flower in it.
+
+lily flower_examine_room
+The flower is a lily flower, its blue stem staining the water the same shade.
+
+lily flower_building
+The building you're in has a front desk. On it there is one lone flower.
+A lily flower.
+
+lion's tongue flower
+In between some rocks, you find a small but stubborn sprout, fully yellow.
+
+lion's tongue flower_examine
+It's a lion's tongue flower. These were always a symbol of strength, of determination.
+And soon, a symbol of hope. That humans will survive.
+
+bluebell flower
+In a pile of dark ooze, a bluebell flower has sprouted.
+Its strange bell-shape-making petals have captured your attention.
+
+bluebell flower_examine
+The bluebell flower has been used as an ingredient for stimulants.
+In medical and in sports use. It gives you some ideas.
+
+Johnny
+A man leans against the pole. The hood of his jacket hides his face.
+
+Johnny_start
+"Haven't seen anyone else in a while now. How'd you survive the crash?"
+
+Johnny_a
+He tilts his head, then shrugs.
+"Hm. Are you... mute?"
+
+Johnny_y
+He
+
+Johnny_n
+He nods. "Alright. Guess you just don't want to talk"
+
+Alicia
+You find a young woman rocking back and forth.
+
+Alicia_start
+She looks up at you. She has a bizarre look in her eyes.
+"You can't die, you can't die, you can't die, you won't die, you won't die..."
+
+Alicia_a
+She notices that you can't answer, and starts laughing.
+"Can't mimic a voice, can you? You monster!"
+
+Alicia_y
+"Go! Go away! Do you know what happened because of you?"
+
+Alicia_y_y
+"Then have you no shame to stay here?"
+
+Alicia_y_y_y
+She shakes her head, then starts rocking again.
+
+Alicia_y_y_n
+She shakes her head roughly, then starts rocking again.
+
+Alicia_y_n
+She points at you, shakily getting up.
+"Because of you!!! YOU! They all died! They all died when you came here! Why-"
+She shakes her head violently, as if to get rid of her grief.
+"Will you just leave us alone?"
+
+Alicia_y_n_y
+She sighs, sitting back down, exhausted.
+"Then go"
+
+Alicia_y_n_n
+She lunges at you, but you step away.
+"Monster, monster, monster, monster, monster..."
+
+Dominique
+There's a kid sitting on the floor.
+
+Dominique_start
+"Do you think they will leave soon?" He asks quietly.
+
+Dominique_a
+He doesn't react to your answer.
+"Mom didn't survive when the explosion happened. She hid me in the basement."
+"Have you seen what happens to those who couldn't hide?"
+
+Dominique_n
+"They- they got weird. Their faces are all mangled, and they wheeze, like this:"
+He mimics the sound, then starts coughing. "Sorry, do you have food?"
+
+Dominique_n_y
+You hand him a slice of bread you had in your pocket. It's not too old, fortunately.
+"Thank you," He says between bites, "Well, anyways the explosion was really really big. It was scary.
+But mom was more scary. She tried to hurt me, so I ran till I got here. It's safe here. Will you stay?"
+
+Dominique_n_y_y
+""
+
+Dominique_n_y_n
+"Why not? Are you searching for something?"
+
+Dominique_n_y_n_y
+"Probably the cure. Everyone's looking for something to stop it.
+I bet there's nothing." He looks away. "Things never get better."
+
+Dominique_n_y_n_n
+"Then, someone?"
+
+Dominique_n_y_n_n_y
+"Yeah, a lot of people lost someone." He pauses. "Don't take this the wrong way,
+but I think you should stop. It's easier to remain hopeful than to know the truth."
+
+Dominique_n_y_n_n_n
+He chuckles. "Then why would you even go out? Just stay at this point."
+He shakes his head at you. "Crazy..." he mutters, then lies down.
+
+Dominique_y
+"When I got out, she wasn't mom anymore. She- she tried to attack me!
+I ran far, till I got to this city." He flinches, and hugs his stomach. "Er, do you have any food maybe?"
+
+Dominique_y_n
+You shake your head. He looks disappointed.
+"Do you know where to get something, at least?"
+
+Dominique_y_n_y
+You nod you head, and point to some people nearby.
+"They won't share with me. They're bad people. Crazies."
+You stare at him blankly.
+"Do you know what they are?"
+
+Dominique_y_n_n
+You shake your head sadly. His shoulders slump.
+"Then go away." He lies down and closes his eyes.
+
+Dominique_y_n_y_y
+"Good. Then don't come near them."
+He doubles over again, clearly in pain. He's too exhausted to speak anymore.
+
+Dominique_y_n_y_n
+"They think the monsters are good. I mean, maybe at first, yeah, but-urgh-"
+He doubles over again, cleanly in pain. He's too exhausted to continue.
+
+Dominique_y_y
+You hand him a slice of bread you had in your pocket. It's not too old, fortunately.
+"Thanks! How'd you get here? Did you kill lots of monsters?"
+
+
+Dominique_y_y_y
+You nod your head. His eyes open in wonder.
+"Mom told me it was from the astronauts. Before she died, I mean.
+That the monsters came from the sickness. Did you see black goo on them?"
+
+Dominique_y_y_n
+You shake your head.
+"Same here. I haven't left the city since mom died.
+...but did you see at least see monsters on the way here?"
+
+
+Dominique_y_y_n_y
+Your nod satisfies him.
+"I saw them too. They...looked like mom."
+He pauses. "What if they weren't always bad. Do you think they were always angry?"
+
+Dominique_y_y_n_n
+When you shake your head, he looks at you confused. Then his expression turns dark.
+"What? You don't see them as monsters? You're stupid like those crazies.
+Those things are bad now. The sickness made them evil like it did to-"
+He stops. He turns his head to the side, too upset to continue.
+
+Dominique_y_y_n_y_n
+He finishes the bread, and hugs himself tightly. You pass to him a jacket.
+"I hate it. I hate how angry they looked. I wish it all stopped. I wish mom was-"
+He stops, and rests his head on his knees. His expression reminds you of someone.
+
+Dominique_y_y_n_y_y
+He finishes the bread, and hugs himself tightly. You pass to him a jacket.
+"I guess I'm thinking too much about it."
+He looks out to the distance, deep in thought.
+
+Dominique_y_y_y_y
+You nod your head again.
+"I wish they didn't go to space. I wanna see my friends again, and mom. I want a normal life.
+Though, everyone does I guess. You too, right?"
+
+Dominique_y_y_y_n
+He shrugs. "Must've been something else then."
+
+Dominique_y_y_y_y_y
+He smiles at your agreement, then lies down.
+"Thanks for the bread."
+
+Dominique_y_y_y_y_n
+He looks at you confused, then lies down, turning to his side.
+"Well, anyways thanks for the bread."
+
+
+Ella
+An older lady stands near a wall, shuffling cards.
+
+Ella_a
+She looks up at you when you come closer.
+"How you doin' on this day?"
+
+Ella_start
+Realizing you can't speak, she stops shuffling.
+"Least you don't need a tongue to play poker.
+Care for a game?"
+
+Ella_y
+
+Ella_n
+You shake your head.
+"Alrighty then," she says, then resumes shuffling.
+The silence is filled with the flipping, before she asks:
+"Any chance you seen a certain lady out there? Her name's Alicia Thunder."
+
+Ella_n_y
+You remember the name from somewhere. You nod to the woman.
+She brightens up.
+"Really? Where was- oh, you can't answer"
+She pauses to think, then ruffles through a bag on the floor,
+finding a broken half of a pencil and a newspaper.
+"Write down where you saw her, will ya? She's very dear to me."
+
+Ella_n_y_y
+The memory is fuzzy, but you're able to write down the name of the city.
+The lady seems to recognize the name, as she starts quickly packing up the bag.
+"Thanks, mister!" She hugs you unexpectedly, before running off in the direction of the city.
